@@ -1,23 +1,10 @@
-NELK AGRO SERVICES — WEBSITE STARTER
+NELK AGRO SERVICES — WEBSITE V4
+Full agricultural range with additional irrigation and stock-feed imagery.
 
-Files:
-- index.html     Main website page
-- styles.css     Responsive design and brand styling
-- script.js      Mobile menu + current year
-- nelk-logo.png  NELK logo
-
-Brand colours:
-- Green: #087a35
-- Red: #e32620
-- Black: #111315
-- White: #ffffff
-
-Contact:
-WhatsApp/Phone: +260 977 375 434
+Brand colours: green #087a35, red #e32620, black #111315, white #ffffff
+Phone / WhatsApp: +260 977 375 434
 Location: TD Business Center, Mumbwa, Zambia
 
-NEXT STEPS:
-1. Replace the placeholder/background treatment with real photos of your tractors, shop, farm equipment, fertilizer, stock feed, irrigation products and Gatoma motorcycles.
-2. Add exact product names, prices or "Request a Quote" buttons as needed.
-3. Add your business email, opening hours and social-media links.
-4. Publish the site on a domain such as your preferred .com or .zm address.
+Categories: Tractors, farm equipment, fertilizer & farm inputs, irrigation solutions, Gatoma motorcycles & accessories, poultry feed and livestock feed.
+
+Product images supplied in conversation are included for visual presentation. Confirm exact stock, brands, prices and specifications with NELK before publishing product-specific claims.
